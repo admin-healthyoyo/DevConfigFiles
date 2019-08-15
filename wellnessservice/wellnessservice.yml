@@ -1,6 +1,6 @@
 example.property: "I AM WELLNESS SERVICE"
 spring.datasource.driver: "com.postgresql.Driver"
-spring.datasource.url: "jdbc:postgresql://13.235.184.103:5432/healthnet"
+spring.datasource.url: "jdbc:postgresql://localhost:5432/healthnet"
 spring.datasource.username: "postgres"
 spring.datasource.password: "root"
 spring.jpa.show-sql: "true"
