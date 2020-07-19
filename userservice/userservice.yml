@@ -18,6 +18,7 @@ spring.jpa.show-sql: "true"
 spring.jpa.hibernate.ddl-auto: "update"
 spring.jpa.properties.hibernate.dialect: "org.hibernate.dialect.PostgreSQLDialect"
 logging.level.org.hibernate.SQL: "debug"
+logging.level.com.healthnet: "debug"
 spring.datasource.max-active: 100
 spring.datasource.max-idle: 100
 spring.datasource.max-wait: 10000
