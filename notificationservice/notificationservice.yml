@@ -5,3 +5,4 @@ example.property: "I AM IN THE DEFAULT NOTIFICATION SERVICE"
 #spring.mail.password: Zaq!2wsx
 #spring.mail.properties.mail.smtp.auth: true
 #spring.mail.properties.mail.smtp.starttls.enable: true
+server.port: 8213

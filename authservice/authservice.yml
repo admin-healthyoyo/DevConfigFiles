@@ -1,1 +1,2 @@
 example.property: "I AM IN THE DEFAULT AUTHENTICATION SERVICE"
+server.port: 8210
